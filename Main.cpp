@@ -1,3 +1,4 @@
+//https://github.com/Jackson-Kyle/Program-Playlist/tree/3484c36d8a4a53ac4efd1362ad8cd6c167ba52e6 - Kyle Jackson
 #include <iostream>
 #include "PlaylistNode.h"
 
